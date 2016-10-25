@@ -1,0 +1,19 @@
+current score is: 0
+
+LINEAR EQUATION
+
+1 1 1 -1 1 1 1 -1 -1 1 1 1 1 1 -1 -1 1 -1 1 -1 -1 -1 -1 1 -1 1 1 1 1 -1 1 1 -1 1 1 -1 1 1 1 -1 -1 
+-1 1 -1 1 -1 1 -1 -1 -1 1 1 1 1 1 1 1 1 1 -1 1 1 -1 1 1 -1 1 -1 -1 1 1 -1 1 1 1 -1 -1 -1 -1 1 1 1 
+
+iterations used: 912050
+--- SharcNET Job Epilogue ---
+              job id: 9026773
+         exit status: 0
+            cpu time: 1.1h / 24.0h (4 %)
+        elapsed time: 1.1h / 24.0h (4 %)
+      virtual memory: 226.8M / 1.0G (22 %)
+
+Job completed successfully
+WARNING: Job only used 4 % of its requested walltime.
+WARNING: Job only used 4 % of its requested cpu time.
+WARNING: Job only used 22% of its requested memory.

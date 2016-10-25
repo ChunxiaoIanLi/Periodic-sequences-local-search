@@ -1,0 +1,9 @@
+--- SharcNET Job Epilogue ---
+              job id: 9026761
+         exit status: 271
+            cpu time: 19.6h / 24.0h (81 %)
+        elapsed time: 19.6h / 24.0h (81 %)
+      virtual memory: 226.8M / 1.0G (22 %)
+
+WARNING: Job was killed by user
+WARNING: Job only used 22% of its requested memory.

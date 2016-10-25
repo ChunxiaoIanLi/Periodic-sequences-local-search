@@ -1,0 +1,11 @@
+=>> PBS: job killed: walltime 432004 exceeded limit 432000
+--- SharcNET Job Epilogue ---
+              job id: 9032926
+         exit status: -10
+            cpu time: 119.9h / 120.0h (99 %)
+        elapsed time: 120.0h / 120.0h (100 %)
+      virtual memory: 226.8M / 1.0G (22 %)
+
+Job returned with status -10.
+WARNING: Job killed because it used too much elapsed time.
+WARNING: Job only used 22% of its requested memory.
